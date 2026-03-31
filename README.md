@@ -1,2 +1,3 @@
-# indra-flash
-Tools and docs for Indra Chain &amp; Crypto Fans Club (CFC)
+# ⚡ Indra Flash
+
+Tools and docs for Indra Chain & Crypto Fans Club (CFC)
